@@ -1,2 +1,4 @@
-# THIS_REPO_HAS_NO_STARS
-A parody. Don't star please
+# This has no stars
+
+Just like all other repos,
+A parody. Don't star please or I'll beat you
